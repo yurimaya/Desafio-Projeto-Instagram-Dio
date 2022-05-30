@@ -1,4 +1,4 @@
-# Desafio do Projeto Instagram da DIO 🚀
+# Desafio do Projeto Instagram da DIO🚀
 
 
 ## Criação da tela de login do Instagram.
